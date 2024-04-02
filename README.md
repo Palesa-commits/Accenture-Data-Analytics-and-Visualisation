@@ -1,4 +1,8 @@
 # Accenture-Data-Analytics-and-Visualisation
+
+![](accenture_logo.jpg)
+
+## Job Simulation
 A job simulation from the Forage website, based on a hypothetical social media client.
 
 
